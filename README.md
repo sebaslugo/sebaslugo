@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 Soy Henry
 - 💬 Preguntame acerca de: React Js, CSS, Redux, Express Js, Nodemailer, Sequelize, Postgress, SQL, HTML5. 
 - 📫 Encuentrame en Linkenid: https://www.linkedin.com/in/jhoan-sebastian-lugo-ruiz-8577b01b6
-- ⚡ Puedes encontrar mi ultimo proyecto realizado en el repositorio e-commerce
+- ⚡ Puedes encontrar mi ultimo proyecto realizado en el repositorio Henry App
 
